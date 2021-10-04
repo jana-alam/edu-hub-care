@@ -1,17 +1,17 @@
 # Eduhub online courses
 
-# link
+-link
 
-This project is made for selling online courses related to computer & IT.
+-This project is made for selling online courses related to computer & IT.
 
-## This website is Single Page Application
+- This website is Single Page Application
 
 ## There are 04 main pages
 
-### Home
+- Home
 
-### About
+- About
 
-### Courses
+- Courses
 
-### Contact
+- Contact
