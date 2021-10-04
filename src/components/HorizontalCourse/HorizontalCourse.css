@@ -1,0 +1,16 @@
+.course-title {
+  color: #990fb7;
+}
+.course-duration {
+  padding: 5px 10px;
+  color: whitesmoke;
+  background-color: rgb(236, 173, 13);
+  border-radius: 5px;
+}
+
+.course-price {
+  color: goldenrod;
+}
+.course-image {
+  max-height: 140px;
+}
