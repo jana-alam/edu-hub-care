@@ -1,10 +1,8 @@
 # Eduhub online courses
 
--link
-
--This project is made for selling online courses related to computer & IT.
-
 - This website is Single Page Application
+- You can sell online courses here
+- No page will be loading when you navigate from one page to another
 
 ## There are 04 main pages
 
